@@ -1,2 +1,1 @@
-# UrbanistFont
-UrbanistFont_for_CrDroid v7.2+
+##V1.0.0 initial version
